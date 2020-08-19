@@ -1,4 +1,4 @@
-//how are you sneha
+how are you sneha
 plublic class Hello{
 	public static void main(String[] args){
 		// hello sneha
